@@ -7,7 +7,7 @@ The system uses **cloud-hosted vector storage**, **semantic retrieval**, **reran
 
 ## 🚀 Live Demo
 **Live App URL:**  
- *(Add deployed Streamlit / HuggingFace / Render link here)*
+ *( deployed Streamlit )*
 
 ---
 
@@ -149,7 +149,7 @@ Source chunks are displayed below each answer.
 
 ### 1️ Clone Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/prajithJ/RAG_CLOUD
 cd RAG_CLOUD
 
 ### Create Virtual Environment
