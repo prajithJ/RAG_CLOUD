@@ -1,0 +1,12 @@
+# Virtual env
+rag/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
