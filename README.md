@@ -7,7 +7,7 @@ The system uses **cloud-hosted vector storage**, **semantic retrieval**, **reran
 
 ## 🚀 Live Demo
 **Live App URL:**  
- *( deployed Streamlit )*
+ *https://ragcloud-prajith.streamlit.app/*
 
 ---
 
